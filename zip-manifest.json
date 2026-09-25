@@ -1,0 +1,251 @@
+{
+  "version": 1,
+  "generated": "2026-09-25T04:44:11Z",
+  "archives": [
+    {
+      "id": "collection-basic",
+      "fileName": "collection-basic.zip",
+      "compressedSize": 6084663,
+      "uncompressedSize": 11160517,
+      "sha256": "fe6abf747902193839f43245545d188c0e167994c1b4d7df8ab92599f5a14999"
+    },
+    {
+      "id": "collection-bibtexextra",
+      "fileName": "collection-bibtexextra.zip",
+      "compressedSize": 7495960,
+      "uncompressedSize": 36764902,
+      "sha256": "4872d7a09b7fdcbd217da07e76cc43a93d06d4bdd3cf4bb2944c6ab1dd29681f"
+    },
+    {
+      "id": "collection-fontutils",
+      "fileName": "collection-fontutils.zip",
+      "compressedSize": 565918,
+      "uncompressedSize": 1864840,
+      "sha256": "d827883173168130380eb5fcdf26bc793caa88555e6c288f6c604503e34baa7a"
+    },
+    {
+      "id": "collection-formatsextra",
+      "fileName": "collection-formatsextra.zip",
+      "compressedSize": 2280532,
+      "uncompressedSize": 7918148,
+      "sha256": "2e5f14629cdaa8db9858dcfd1dfd8609101c53eeecbde67ba05516509b530154"
+    },
+    {
+      "id": "collection-games",
+      "fileName": "collection-games.zip",
+      "compressedSize": 4058306,
+      "uncompressedSize": 9540878,
+      "sha256": "bd08850137fe1526bb00046f9aed50374c6ba8cdaa0fe9c706e32ec59dc1b403"
+    },
+    {
+      "id": "collection-humanities",
+      "fileName": "collection-humanities.zip",
+      "compressedSize": 868011,
+      "uncompressedSize": 4074798,
+      "sha256": "d4fb4cf5b0c2b6b30ae4d1c00cc832219bfec821a53066512b465d0958839e0e"
+    },
+    {
+      "id": "collection-langarabic",
+      "fileName": "collection-langarabic.zip",
+      "compressedSize": 25571592,
+      "uncompressedSize": 97870295,
+      "sha256": "2b5319f1fd7008b6f760714d0b28c4603f59361082c88d3c94fc21474c05ec62"
+    },
+    {
+      "id": "collection-langchinese",
+      "fileName": "collection-langchinese.zip",
+      "compressedSize": 131397202,
+      "uncompressedSize": 203415380,
+      "sha256": "6357f615bb25105a3acf2fc225482181f45896371870dadaefe75a14d211ce75"
+    },
+    {
+      "id": "collection-langcjk",
+      "fileName": "collection-langcjk.zip",
+      "compressedSize": 7794722,
+      "uncompressedSize": 24029609,
+      "sha256": "4e7f246f21d19dd41067162a91b9f7f560a628485bbe381e9ce7a7ec3d9c2579"
+    },
+    {
+      "id": "collection-langcyrillic",
+      "fileName": "collection-langcyrillic.zip",
+      "compressedSize": 4789648,
+      "uncompressedSize": 8893103,
+      "sha256": "4ea1f600c267fbd46631c0829c69e6a9cb6b36a4b88fac4d3ca271f3f4fd8d57"
+    },
+    {
+      "id": "collection-langczechslovak",
+      "fileName": "collection-langczechslovak.zip",
+      "compressedSize": 2524894,
+      "uncompressedSize": 3522325,
+      "sha256": "119629b784da744581865925c43a105c5c6cf5432253e4a67aae504145a838d2"
+    },
+    {
+      "id": "collection-langenglish",
+      "fileName": "collection-langenglish.zip",
+      "compressedSize": 99138,
+      "uncompressedSize": 181083,
+      "sha256": "7e1a9392152c0f51863cbf36349b5ffdd130034ee0d06cf52679c817c26c7d85"
+    },
+    {
+      "id": "collection-langeuropean",
+      "fileName": "collection-langeuropean.zip",
+      "compressedSize": 3144862,
+      "uncompressedSize": 6587599,
+      "sha256": "07ee5f9645250ce6c2aeb4bc2f4fd396b3a66f1654a53f18219616dc5a8124c8"
+    },
+    {
+      "id": "collection-langfrench",
+      "fileName": "collection-langfrench.zip",
+      "compressedSize": 3901199,
+      "uncompressedSize": 15674819,
+      "sha256": "5bbf40b7c689006fb5cd4b18a62f8e7c66f0e8a70a865bebe204f4d3a3f87a93"
+    },
+    {
+      "id": "collection-langgerman",
+      "fileName": "collection-langgerman.zip",
+      "compressedSize": 3692085,
+      "uncompressedSize": 10061283,
+      "sha256": "806f7ef9e73239a5cf70ae56725a35799b2da3103439c6bbcbd149bd1c6d5f4a"
+    },
+    {
+      "id": "collection-langgreek",
+      "fileName": "collection-langgreek.zip",
+      "compressedSize": 73713609,
+      "uncompressedSize": 79992750,
+      "sha256": "e90f489e93764f8509fd98439a4ae35a773722553b7a012745318e6107acdca6"
+    },
+    {
+      "id": "collection-langitalian",
+      "fileName": "collection-langitalian.zip",
+      "compressedSize": 61638,
+      "uncompressedSize": 320535,
+      "sha256": "9154eb1becbe8cd7b6a11b8fa5046c0089960a72083d62e36fe3e21bfca87ec0"
+    },
+    {
+      "id": "collection-langjapanese",
+      "fileName": "collection-langjapanese.zip",
+      "compressedSize": 158796642,
+      "uncompressedSize": 281782126,
+      "sha256": "a6c11ff145952584fd07fa8de1ffdc2e6b5b8047e191b7686e97aed229ce4afb"
+    },
+    {
+      "id": "collection-langkorean",
+      "fileName": "collection-langkorean.zip",
+      "compressedSize": 77624488,
+      "uncompressedSize": 121964310,
+      "sha256": "8ccd1fbd320de067cc15d9e8f17a6c3821c6743b4661302392e4673d8be58c26"
+    },
+    {
+      "id": "collection-langother",
+      "fileName": "collection-langother.zip",
+      "compressedSize": 30878317,
+      "uncompressedSize": 52842448,
+      "sha256": "0fdeb1f24273ea9626bdce5ba244ce63ae0413f2199cf93f4e826ff3c5bf8047"
+    },
+    {
+      "id": "collection-langpolish",
+      "fileName": "collection-langpolish.zip",
+      "compressedSize": 2841615,
+      "uncompressedSize": 3644706,
+      "sha256": "59ba4bac879e011bf665d91b8fde01817cd17549e1538aa6c97802154e5d1f55"
+    },
+    {
+      "id": "collection-langportuguese",
+      "fileName": "collection-langportuguese.zip",
+      "compressedSize": 41435,
+      "uncompressedSize": 112642,
+      "sha256": "f0c9b880b0e735003966a2cdb5cbb2e079eb4239b42373b7b86f010ff794033a"
+    },
+    {
+      "id": "collection-langspanish",
+      "fileName": "collection-langspanish.zip",
+      "compressedSize": 96106,
+      "uncompressedSize": 284488,
+      "sha256": "2157e78162faebc51fd38502178cdb38a93994197388676700f8013ade064958"
+    },
+    {
+      "id": "collection-latex",
+      "fileName": "collection-latex.zip",
+      "compressedSize": 4100961,
+      "uncompressedSize": 13861908,
+      "sha256": "983e9aea4db4f12608bd26f8775adb3b0f8d443c7f6909c4c33fb99a79170fce"
+    },
+    {
+      "id": "collection-latexextra",
+      "fileName": "collection-latexextra.zip",
+      "compressedSize": 23096914,
+      "uncompressedSize": 77637882,
+      "sha256": "94b1477196f246078fe6b8d90f114c40bbeaccd987134676821cbd4bc23b4f93"
+    },
+    {
+      "id": "collection-latexrecommended",
+      "fileName": "collection-latexrecommended.zip",
+      "compressedSize": 7500,
+      "uncompressedSize": 19110,
+      "sha256": "b6dbb20a1e6e0aa2ebda5870e305d326374676595c118da1cf5e305b786c49db"
+    },
+    {
+      "id": "collection-luatex",
+      "fileName": "collection-luatex.zip",
+      "compressedSize": 7308442,
+      "uncompressedSize": 21691400,
+      "sha256": "c7d904bcc0d0b299eb6ca2a6641e6a82f0c733c06b5f3b9afe310bb2e261f671"
+    },
+    {
+      "id": "collection-mathscience",
+      "fileName": "collection-mathscience.zip",
+      "compressedSize": 5942833,
+      "uncompressedSize": 24102605,
+      "sha256": "bcc6c3d66f3cf82092a47595b4b0ea0aa17bee4d21ff340e1b2d5d0863fec7fa"
+    },
+    {
+      "id": "collection-music",
+      "fileName": "collection-music.zip",
+      "compressedSize": 10006121,
+      "uncompressedSize": 35898054,
+      "sha256": "ed1c2b2e7d892830c5a9962995c495c19cc9a11ce7088dbfa06ff206792a7ad6"
+    },
+    {
+      "id": "collection-pictures",
+      "fileName": "collection-pictures.zip",
+      "compressedSize": 16520983,
+      "uncompressedSize": 68732257,
+      "sha256": "dbfdf15c3201595b25bae87ea5dad5ca8294041b679b3708caec5d086bcdafec"
+    },
+    {
+      "id": "collection-plaingeneric",
+      "fileName": "collection-plaingeneric.zip",
+      "compressedSize": 8063194,
+      "uncompressedSize": 19417814,
+      "sha256": "f7391c07a589dd82b57b7dd2871744276b2fd72b3b25e5d8be6ef5da07b5ff2f"
+    },
+    {
+      "id": "collection-publishers",
+      "fileName": "collection-publishers.zip",
+      "compressedSize": 62833632,
+      "uncompressedSize": 97787734,
+      "sha256": "c45e7f821db10360e6ceceace8809665cf8a05b84b811f500384d1742b952bf2"
+    },
+    {
+      "id": "extended-bundle",
+      "fileName": "extended-bundle.zip",
+      "compressedSize": 464850863,
+      "uncompressedSize": 954314592,
+      "sha256": "27c84b02f48dbbbdbfd9eb8eb42e1fe4165896e06c8aaf717889e91ac4cdf5f6"
+    },
+    {
+      "id": "minimal-bundle",
+      "fileName": "minimal-bundle.zip",
+      "compressedSize": 156820795,
+      "uncompressedSize": 309712078,
+      "sha256": "a411a2fcacd64c15ba55a93f1bd13f8cf638f60354f6ce364a60a023154dcb6a"
+    },
+    {
+      "id": "recommended-bundle",
+      "fileName": "recommended-bundle.zip",
+      "compressedSize": 166492861,
+      "uncompressedSize": 369917840,
+      "sha256": "a2dfc3e8b2d405e16d5b1854ccc4a4fe6729b407f735edd61b2706cfef4f08bb"
+    }
+  ]
+}
